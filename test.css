@@ -1,0 +1,71 @@
+﻿body
+{
+    background-image: url('darkness.png');
+}
+h1 
+{
+
+}
+h3
+{
+
+}
+p
+{
+
+}
+img
+{
+
+}
+li{
+
+}
+#Header {
+    width: 500px;
+    margin: 0px auto 10px auto;
+    border: solid 8px black;
+    text-align: center;
+    background-color:purple;
+}
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion One";
+    color:#FFBC00;
+    font-weight: bold;
+}
+#LeftNav {
+    width: 400px;
+    border: solid 8px black;
+    margin: 0px auto 10px auto;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color:purple;
+}
+#LeftNav h2 {
+    
+}
+#LeftNav img {
+
+}
+#Content {
+    background-color:purple;
+    width: 700px;
+    border: solid 8px black;
+    margin: 0px auto 10px auto;
+    text-align: center;
+    padding-bottom: 15px;
+}
+#Footer {
+    text-align: center;
+    background-color:purple;
+
+}
+a
+{
+    color:white;
+    font-weight:bold;
+    font-size:24px;
+    text-decoration:none;
+}
