@@ -1,4 +1,4 @@
-﻿body {
+body {
     background-image: url('sea.jpg');
     border:2px solid black;
 }
@@ -55,8 +55,18 @@ ul {
     #AvailibilityRightNav {
         float:right;
     }
+    #leftNav textarea {
+        border-radius: 15px;
+        background-color: aqua;
+        border: 2px solid black;
+    }
+    #rightNav textarea {
+        border-radius: 15px;
+        border:2px solid black;
+        background-color: orangered;
+    }
     #AvailibilityRightNav label {
-        font:18px solid verdana;
+        font: 18px solid verdana;
     }
     #leftNav {
         float:left;
