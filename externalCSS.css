@@ -1,0 +1,68 @@
+﻿body {
+    background-image: url('sea.jpg');
+    border:2px solid black;
+}
+#Header {
+    text-align: center;
+    background-image: url('hypnotize.png');
+    border:8px solid aqua;
+}
+
+#Footer {
+    text-align:center;
+    border: 2px solid black;
+}
+legend {
+    text-align:center;
+    font:22px arial verdana;
+
+}
+ul {
+    margin: auto, auto, auto, auto;
+   
+}
+#AccountSection {
+    
+}
+    #AccountSection input {
+        width: 600px;
+        height: 40px;
+        border: 5px solid black;
+        border-radius: 15px;
+    }
+#AccountSection label {
+    font:18px arial-black, verdana;
+}
+#PersonalInfoSection label{
+    font:18px arial-black, verdana;
+}
+#PersonalInfoSection input {
+        width: 600px;
+        height: 40px;
+        border: 5px solid black;
+        border-radius:15px;
+    }
+    #PersonalInfoSection select {
+        width: 350px;
+        height: 30px;
+        border: 3px solid black;
+        margin-left: 86px;
+    }
+
+    #availibilityLeftNav {
+        float:left;
+    }
+    #AvailibilityRightNav {
+        float:right;
+    }
+    #AvailibilityRightNav label {
+        font:18px solid verdana;
+    }
+    #leftNav {
+        float:left;
+        border:2px solid green;
+    }
+    #rightNav {
+        float:right;
+        border:2px solid red;
+    }
